@@ -353,7 +353,7 @@
             this.ClientSize = new System.Drawing.Size(775, 439);
             this.Controls.Add(this.panel1);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "CHƯƠNG TRÌNH QUẢN LÝ DANH BẠ - NGUYỄN LƯƠNG NHÂN";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.sinhVienBindingSource)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.qLDBDataSet1)).EndInit();
